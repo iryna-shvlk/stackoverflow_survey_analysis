@@ -107,7 +107,6 @@ Given Python’s high adoption, it serves as a useful case study for exploring s
 - Python developers show **significant global salary variation**
 - **Experience likely plays a larger role than formal education**
 - Small sample sizes can distort rankings and must be handled carefully  
-- Real-world data requires **critical interpretation, not just visualization**
 
 ---
 
